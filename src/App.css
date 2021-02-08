@@ -36,3 +36,7 @@
     transform: rotate(360deg);
   }
 }
+.MuiTypography-body1 {
+  font-size: 2em !important;
+  margin-top: 15px !important;
+}
